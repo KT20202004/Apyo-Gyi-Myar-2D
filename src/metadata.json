@@ -1,0 +1,6 @@
+{
+  "name": "LotteryMgr",
+  "description": "Mobile-first 2-digit lottery management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
